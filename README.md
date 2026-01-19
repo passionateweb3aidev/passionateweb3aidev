@@ -7,8 +7,7 @@ I am a Computer Science graduate from UCV, where I teach courses on front-end de
 * **I am interested in Web designing, Android development, and video game development**
 - 🌱 I’m currently learning ...
   - Svelte
-  - React Native
-  - Unity
+  - Deep Learning
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help 😉<br>
 - Outside tech, ⚽ I love playing football, 🎮 playing videogames, 🎵 listening to music and ⚛︎ watching science documentaries
