@@ -11,7 +11,7 @@ I am a Computer Science graduate from UCV, where I teach courses on front-end de
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help 😉<br>
 - Outside tech, ⚽ I love playing football, 🎮 playing videogames, 🎵 listening to music and ⚛︎ watching science documentaries
-- 📫 Reach out to me at: <a href="cpservice98@gmail.com">cpservice98@gmail.com</a>
+- 📫 Reach out to me at: <a href="passionateweb3aidev321@gmail.com">passionateweb3aidev321@gmail.com</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
