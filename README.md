@@ -32,7 +32,7 @@ I am a Computer Science graduate from UCV, where I teach courses on front-end de
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src= "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-    <img src="https://camo.githubusercontent.com/fdd1517c54610f56afe6f06f9d9a8c3de1ff9c1bf1feb60c39534cbe0fb301a2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d756e697479">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   </span>
   
   <h4> Frameworks, Platforms and Libraries </h4>
