@@ -1,17 +1,17 @@
-<h1 align="center"><b>Hi, I'm Carlos Pino </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I'm Carlos Pino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <img src="https://media.giphy.com/media/QA1fcFxBaBQD6t68be/giphy.gif" width="25"><b> About me </b>
+## <img src="https://media.giphy.com/media/QA1fcFxBaBQD6t68be/giphy.gif" width="25"><b> About Me </b>
 <img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
-I am a Computer Science graduate from UCV, where I teach courses on front-end development. I am always expanding my knowledge in front-end and back-end development. I work as a full-stack blockchain developer in a company that enables the integration of real-world assets into the digital space. I love learning and building new things, and I am productive, creative, and innovative.
-* **I am interested in Web3 Game, Web & Android development, and video game development**
-- 🌱 I’m currently learning ...
-  - Svelte
-  - Deep Learning
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help 😉<br>
-- Outside tech, ⚽ I love playing football, 🎮 playing videogames, 🎵 listening to music and ⚛︎ watching science documentaries
-- 📫 Reach out to me at: <a href="passionateweb3aidev321@gmail.com">passionateweb3aidev321@gmail.com</a>
+Nice to meet you! I'm a Computer Science grad from UCV. I teach front-end development and I'm always learning more about both the front and back ends of web technologies. Currently, I'm working as a full-stack blockchain developer, helping bridge real-world assets with digital solutions.
+
+I'm passionate about Web3 games, web and Android development, and building video games. I love discovering new tech and creative ways to solve problems.
+
+- 🌱 Right now, I'm picking up Svelte and getting deeper into Deep Learning.
+- 👯 I enjoy collaborating on open source projects—let me know if you want to team up!
+- ✔ If you have a question or just want to chat about tech, feel free to reach out. I'm always happy to help. 😉  
+- Outside of work, you'll probably find me on the football pitch ⚽, behind a game controller 🎮, diving into music 🎵, or geeking out over science documentaries ⚛︎.
+- 📫 Get in touch: <a href="mailto:passionateweb3aidev321@gmail.com">passionateweb3aidev321@gmail.com</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
