@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey, I prefer innovation</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hey, I prefer innovation and creation</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## <img src="https://media.giphy.com/media/QA1fcFxBaBQD6t68be/giphy.gif" width="25"><b> About Me </b>
 <img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
