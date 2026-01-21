@@ -59,6 +59,11 @@ I'm passionate about Web3 games, web and Android development, and building video
     <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
   </span>
   
+  <h4> 🎮 Game Development </h4>
+  <span>
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+  </span>
+  
   <h4> 🧪 Testing & Debugging </h4>
   <span>
     <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white">
