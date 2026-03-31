@@ -3,9 +3,9 @@
 ## <img src="https://media.giphy.com/media/QA1fcFxBaBQD6t68be/giphy.gif" width="25"><b> About Me </b>
 <img align="right" width=350px alt="Unicorn" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" />
 
-Nice to meet you! I'm a Computer Science grad from UCV. I teach front-end development and I'm always learning more about both the front and back ends of web technologies. Currently, I'm working as a full-stack blockchain developer, helping bridge real-world assets with digital solutions.
+Nice to meet you! I teach front-end development and I'm always learning more about both the front and back ends of web3 and AI technologies. Currently, I'm working as a full-stack blockchain AI developer, helping bridge real-world assets with digital solutions.
 
-I'm passionate about Web3 games, web and Android development, and building video games. I love discovering new tech and creative ways to solve problems.
+I'm passionate about Web3 games, web and Android development, and building video games and AI-driven products. I love discovering new tech and creative ways to solve problems.
 
 - 🌱 Right now, I'm picking up Svelte and getting deeper into Deep Learning.
 - 👯 I enjoy collaborating on open source projects—let me know if you want to team up!
@@ -142,9 +142,5 @@ I'm passionate about Web3 games, web and Android development, and building video
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-[![](https://github-readme-stats.vercel.app/api?username=plip123&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/plip123)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=plip123&theme=material-palenight)](https://github.com/plip123)
 </div>
