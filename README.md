@@ -11,7 +11,6 @@ I'm passionate about Web3 games, web and Android development, and building video
 - 👯 I enjoy collaborating on open source projects—let me know if you want to team up!
 - ✔ If you have a question or just want to chat about tech, feel free to reach out. I'm always happy to help. 😉  
 - Outside of work, you'll probably find me on the football pitch ⚽, behind a game controller 🎮, diving into music 🎵, or geeking out over science documentaries ⚛︎.
-- 📫 Get in touch: <a href="mailto:passionateweb3aidev321@gmail.com">passionateweb3aidev321@gmail.com</a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
